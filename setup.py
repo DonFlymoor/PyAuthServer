@@ -1,3 +1,7 @@
+'''
+Created by agoose77.
+Modified by DonFlymor.
+'''
 from setuptools import setup
 
 setup(name='network',
